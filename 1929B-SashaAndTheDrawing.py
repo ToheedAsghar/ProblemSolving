@@ -5,8 +5,6 @@ Link:       https://codeforces.com/problemset/problem/1929/B
 '''
 
 import math         # math.ceil
-# Sasha and the Drawing
-
 
 def minCells(n: int, k: int) -> int:
     diagonals: int = 4*n - 2
