@@ -42,9 +42,9 @@ Therefore, the overall time complexity of the provided code is **O(n)**, where n
 
 ## Space Complexity
 
-- The space complexity of creating a Counter object using Counter(a) is O(n), where n is the number of elements in the input list 'a'.
+- The space complexity of creating a Counter object using Counter(a) is O(n), where *n* is the number of elements in the input list 'a'.
 - Additional space is used for the dictionary 'dict' and the variable 'cnt', both of which are constant space.
 - The space complexity of the cardGame function is O(n) due to the Counter object.
 - The space complexity of the main function is also O(n) due to the input list 'a'.
 
-Therefore, the overall space complexity of the provided code is **O(n)**, where n is the number of elements in the input list 'a'.
+Therefore, the overall space complexity of the provided code is **O(n)**, where *n* is the number of elements in the input list 'a'.
