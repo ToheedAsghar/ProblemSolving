@@ -1,4 +1,4 @@
-# [1956B - B. Nene and the Card Game](https://codeforces.com/problemset/problem/1956/B)
+# [1956B - Nene and the Card Game](https://codeforces.com/problemset/problem/1956/B)
 
 In this Problem, we just hvae to analyze how many duos we have. In this case, the point is ours as there is not other way Nene can have that card as there are only two cards. If both players play optimaally, then our total points will be the number of pairs we have.
 
